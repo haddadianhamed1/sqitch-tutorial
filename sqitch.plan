@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=spidertutorial
+%uri=https://github.com/haddadianhamed1/sqitch-tutorial.git
+
+schema 2016-12-12T21:57:45Z SpiderTutorial <haddadian.hamed@gmail.com> # add schema for tutorial
+video [schema] 2016-12-12T22:03:33Z SpiderTutorial <haddadian.hamed@gmail.com> # add video table to schema
